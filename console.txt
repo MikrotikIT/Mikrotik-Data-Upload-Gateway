@@ -1,2 +1,3 @@
+import requests
 r = requests.get('https://raw.githubusercontent.com/MikrotikIT/Mikrotik-Data-Upload-Gateway/main/address').text
 print(r)
