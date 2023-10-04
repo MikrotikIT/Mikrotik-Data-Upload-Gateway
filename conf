@@ -1,1 +1,7 @@
-
+{
+    "conf":{
+        "address":"http://2.58.82.23:8010/",
+        "reupload_time":3600,
+        "is_upload_enabled":true
+    }
+}
